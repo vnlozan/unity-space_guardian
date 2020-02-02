@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b42e4ee295b556a4fb654120e930d0ac
+timeCreated: 1513784247
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Night Machine
+  fontNames:
+  - Night Machine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
